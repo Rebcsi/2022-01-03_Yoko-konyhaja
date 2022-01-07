@@ -126,3 +126,8 @@ width: 230px;
 margin-left: 20;
 float: right;
 }
+
+aside d{
+	color: #de6581;
+	text-decoration: none;
+}
