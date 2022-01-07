@@ -131,3 +131,7 @@ aside d{
 	color: #de6581;
 	text-decoration: none;
 }
+
+h1,h2,h3{
+	font-weight: normal;
+}
