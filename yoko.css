@@ -121,3 +121,8 @@ section.contpage {
 	text-align: center;
 	font-size: 20px;
 }
+aside {
+width: 230px;
+margin-left: 20;
+float: right;
+}
